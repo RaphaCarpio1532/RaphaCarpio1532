@@ -1,0 +1,13 @@
+-- Selecting the names and counting the top 10 names for female babys in 2017
+
+SELECT
+  name,
+  count
+FROM
+  `sandboxpro.babynames.babynames_2017`
+WHERE
+  gender = 'F'
+ORDER BY
+  count DESC
+LIMIT
+  10
