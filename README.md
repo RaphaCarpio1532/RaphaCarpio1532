@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaphaCarpio1532
 - 👀 I’m interested in Data analytics and Youtube
-- 🌱 I’m currently learning datana analysis.
+- 🌱 I’m currently learning data analysis.
 - 📫 How to reach me ...@iraphacarpio Send me a DM on Instagram or Check my YouTube channel Rapha Carpio
 
 <!---
